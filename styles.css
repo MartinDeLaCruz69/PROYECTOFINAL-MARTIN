@@ -75,19 +75,3 @@
         display: none
     }
 }
-
-.primary_btn {
-    display: inline-block;
-    background: linear-gradient(to right, #f6ff00 0%, #c904ff 51%, #01e6ff 100%);
-    color: #fff;
-    letter-spacing: 0;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 550;
-    font-size: 15px;
-    line-height: 55px;
-    padding: 0 100px;
-    text-align: center;
-    text-transform: uppercase;
-    border-radius: 10px;
-    background-size: 250% auto;
-}
